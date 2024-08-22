@@ -6,7 +6,6 @@ public class SampleApplication {
                 addExtraMethod(32,43);
         }
         public static void addExtraMethod (int a, int b){
-
                System.out.println("Total : " + (a+b));
         }
 
